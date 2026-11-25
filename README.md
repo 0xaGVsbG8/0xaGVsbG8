@@ -34,4 +34,4 @@ My personal virtualization environment running Proxmox VE.
 - **CPU:** Intel Core i5-9400F
 - **MEMORY:** 32GB ddr4 2666hz
 - **GPU:** NVIDIA GeForce GTX 1660
-- **STORAGE: ** nvme Samsung SSD 970 EVO Plus 1TB
+- **STORAGE**: nvme Samsung SSD 970 EVO Plus 1TB
