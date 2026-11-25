@@ -24,3 +24,17 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+
+
+## My Proxmox Setup
+
+My personal virtualization environment running Proxmox VE.
+
+- **Hypervisor:** Proxmox VE
+- **CPU:** Intel Core i5-9400F
+- **GPU:** NVIDIA GeForce GTX 1660
+- **Virtualization:** KVM / QEMU
+- **Storage:** ZFS
+- **GPU Passthrough:** NVIDIA GTX 1660
+- **Guest OS:** Ubuntu Server
+- **Networking:** Linux bridges, Nginx reverse proxy
