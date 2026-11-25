@@ -32,9 +32,6 @@ My personal virtualization environment running Proxmox VE.
 
 - **Hypervisor:** Proxmox VE
 - **CPU:** Intel Core i5-9400F
+- **MEMORY:** 32GB ddr4 2666hz
 - **GPU:** NVIDIA GeForce GTX 1660
-- **Virtualization:** KVM / QEMU
-- **Storage:** ZFS
-- **GPU Passthrough:** NVIDIA GTX 1660
-- **Guest OS:** Ubuntu Server
-- **Networking:** Linux bridges, Nginx reverse proxy
+- **STORAGE: ** nvme Samsung SSD 970 EVO Plus 1TB
