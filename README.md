@@ -30,7 +30,7 @@
 
 My personal virtualization environment running Proxmox VE.
 
-- **Hypervisor:** Proxmox VE
+- **Hypervisor:** Proxmox VE 9.3
 - **CPU:** Intel Core i5-9400F
 - **MEMORY:** 32GB ddr4 2666hz
 - **GPU:** NVIDIA GeForce GTX 1660
