@@ -1,5 +1,5 @@
 ## Hi there, I'm Lukas
-<img src="[assets/waving-hand.gif](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)" width="25" />
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" />
 
 ## 🛠️ Technologies I use
 
